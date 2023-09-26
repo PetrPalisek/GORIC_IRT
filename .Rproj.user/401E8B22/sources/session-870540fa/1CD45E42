@@ -1,0 +1,27 @@
+{
+    "id": "1CD45E42",
+    "path": "~/GORIC_IRT/goric_irt.R",
+    "project_path": "goric_irt.R",
+    "type": "r_source",
+    "hash": "1080935401",
+    "contents": "",
+    "dirty": false,
+    "created": 1695724957743.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "94,85",
+        "scrollLine": "72"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1695731446,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1695731446588,
+    "read_only": false,
+    "read_only_alternatives": []
+}
