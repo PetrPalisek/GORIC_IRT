@@ -43,7 +43,7 @@ model_2fac <- "
 fit_2fac <- mirt(df[,3:12], model = model_2fac, itemtype = "2PL", SE = T)
 
 
-# (2) Constrain all discrimination parameters (loadings) to 1
+# (2) Constrain all discrimination parameters (loadings) to the same value
 # This corresponds to parameters a1 for F1 and a2 for F2
 model_2fac_constrained <- "
                F1 = 1-5
